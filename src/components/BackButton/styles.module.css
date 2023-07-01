@@ -1,0 +1,16 @@
+.buttonBack {
+    margin-top: 20px;
+    padding: 0px 14px;
+    width: 140px;
+    height: 60px;
+    background-color: rgb(78, 78, 104);
+    color: #ebebeb;
+    border-radius:20px ;
+    box-shadow: 2px 2px 5px black;
+}
+
+.buttonBack:hover{
+    color: #ffffff;
+    background-color: rgb(107, 107, 143);
+    box-shadow: 4px 4px 5px black;
+}

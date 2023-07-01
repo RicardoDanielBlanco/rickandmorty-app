@@ -1,0 +1,18 @@
+.card {
+    width: 200px;
+    height: 230px;
+    border: solid 1px rgb(94, 94, 94);
+    border-radius: 10px;
+    margin: 20px;
+    background-color:rgb(42, 41, 49);
+    box-shadow: 2px 2px 5px black;
+}
+
+.card:hover{
+    border: solid 1px rgb(211, 211, 211);
+    box-shadow: 4px 4px 5px black;
+}
+
+.img img {
+    width:130px;
+}

@@ -1,0 +1,37 @@
+.navBar{
+    height: 50px;
+    width: auto;
+    background-color: rgb(78, 78, 104);
+    padding: 0px 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo, .buttons{
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 48px;
+}
+
+.buttons ul li{
+    list-style: none;
+    margin: 0px 20px;
+}
+
+.buttons ul li a{
+    color: white;
+}
+
+.buttons ul li a:hover{
+    color: rgb(36, 185, 163);
+    text-shadow: 2px 2px 2px rgb(32, 32, 32);
+}
+
+.buttons ul{
+    display: flex;
+}
